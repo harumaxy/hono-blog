@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/skymethod/denoflare/v0.5.10/common/config.schema.json",
+  "scripts": {
+    "hono-blog": {
+      "path": "src/main.ts",
+      "localPort": 8000
+    }
+  },
+  "profiles": {}
+}

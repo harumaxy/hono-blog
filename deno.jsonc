@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "dev": "deno run -A --unstable src/main.tsx",
+    "dev": "deno run -A --unstable src/main.ts",
     "std": "https://deno.land/std@0.145.0/"
   },
   "importMap": "importMap.json"
